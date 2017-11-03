@@ -1,0 +1,9 @@
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\obj\Debug\QuebrarArquivo.Form1.resources
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\obj\Debug\QuebrarArquivo.Properties.Resources.resources
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\obj\Debug\QuebrarArquivo.csproj.GenerateResource.Cache
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\bin\Debug\QuebrarArquivo.exe.config
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\bin\Debug\QuebrarArquivo.exe
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\bin\Debug\QuebrarArquivo.pdb
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\obj\Debug\QuebrarArquivo.exe
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\obj\Debug\QuebrarArquivo.pdb
+C:\Users\roger\Documents\GitHub\QuebrarArquivo\QuebrarArquivo\obj\Debug\QuebrarArquivo.csprojResolveAssemblyReference.cache
